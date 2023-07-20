@@ -1,3 +1,4 @@
+//**************                   *****************************           ****************************  
 #include<iostream>
 #include<string>
 using namespace std;
@@ -21,7 +22,7 @@ char getMaxiOccChar(string s){
 int main()
 {
     string s ;
-    cout<<" Enter the string : ";
+    cout<<" write the string : ";
     cin>>s;
     cout<<" the maximum occrance character is : ";
     cout<< getMaxiOccChar(s);

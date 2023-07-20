@@ -1,3 +1,4 @@
+// this is a merge sort code 
 #include<iostream>
 using namespace std;
 void merge(int *arr , int s , int e){
